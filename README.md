@@ -79,7 +79,8 @@ The learning path is divided into phases with specific objectives, tasks, and pr
 - **Websites**: 
   - [Ray Tracind Website](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - **Tools**: 
-  - Icarus Verilog (simulation)
+  - [Replit environment](https://replit.com) Pretty cool environment for developemnt in c++. 
+Refer to [this](https://www.youtube.com/watch?v=St95nPOwsa8) youtube video to get started. It also has readymade c++ templates for the repl environment. The AI is very helpful for the initial seting up of things.
 
 ## Contributing 
 Contributions to enhance this learning plan are welcome! To contribute:
