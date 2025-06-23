@@ -11,7 +11,7 @@ I stumbled upon this amazing resource from make_your_own_x github repo the [ray_
 - [License](#license)
 
 ## Overview
-- Output an Image
+- [Output an Image](Section1/notes.md)
 - The vec3 class
 - Rays, a simple camera and background
 - Adding a sphere
