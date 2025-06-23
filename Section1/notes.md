@@ -1,1 +1,1 @@
-#Section 1: Output an image
+# Section 1: Output an image
